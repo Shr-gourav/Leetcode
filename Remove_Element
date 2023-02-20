@@ -17,6 +17,8 @@ public:
         if(nums.size()==0){
             return 0;
         }
+        
+        // shr_gourav
         int i=0,j=0;
         while(i<nums.size()){
             if(nums[i]!=val){
