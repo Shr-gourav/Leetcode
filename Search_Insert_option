@@ -5,6 +5,7 @@ If not, return the index where it would be if it were inserted in order.
 You must write an algorithm with O(log n) runtime complexity.
 */
 
+// Array topic 
 class Solution {
 public:
 // binary search 
